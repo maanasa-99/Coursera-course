@@ -1,3 +1,4 @@
+
 (function(window){
 var byespeaker={};
 var speakWord = "Good Bye";

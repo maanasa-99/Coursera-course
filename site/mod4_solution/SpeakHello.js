@@ -6,3 +6,4 @@ hellospeaker.speak=function(name) {
 }
 window.hellospeaker = hellospeaker;
 })(window);
+
